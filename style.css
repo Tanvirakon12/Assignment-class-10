@@ -1,0 +1,40 @@
+*{
+    font-family: serif;
+}
+
+.carousel{
+    margin: 0 auto;
+    width: 65%;
+    box-shadow: 20px 20px 50px grey;
+}
+
+p{
+    color: #FFDC85;
+}
+h3{
+    color: #E9FF70;
+}
+.card-text{
+    text-align:justify;
+}
+.d-flex >div{
+    box-shadow: 20px 20px 50px grey;
+}
+
+/* @media only screen and (max-width: 591px){
+    .d-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    .d-flex >div{
+        margin: 0;
+    }
+} */
+
+
+
+
+
